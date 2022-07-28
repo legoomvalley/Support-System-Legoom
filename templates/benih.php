@@ -5,7 +5,7 @@
       <li><a href="tag-1-div.php">Tag Div</a></li>
       <li><a href="tag-2-heading.php">Tag Heading</a></li>
       <li><a href="tag-3-paragraph.php">Tag Paragraph</a></li>
-      <li><a href="tag-4-.php">Tag Div</a></li>
+      <li><a href="tag-4-img.php">Tag Image</a></li>
       <li><a href="tag-5-.php">Tag Div</a></li>
       <li><a href="nav-sec-1.php">Navbar</a></li>
       <li><a href="nav-sec-2.php">Section</a></li>

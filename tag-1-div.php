@@ -12,7 +12,7 @@ Di sini boleh study tentang Tag Div
 </blockquote>
 </pre>
 
-<h1 class="container mt-5">Hasilnya Div Section</h1><br>
+<h1 class="container mt-5">Output Div Section</h1><br>
 <div class="container">Block Element</div>
 
 

@@ -11,7 +11,7 @@ Di sini boleh study tentang Tag Paragraph <br>
 </blockquote>
 </pre>
 
-<h1 class="container mt-5">Hasilnya paragraph</h1><br>
+<h1 class="container mt-5">Output paragraph</h1><br>
 <p class="container" style="padding-bottom: 100px">Ini adalah contoh paragraph</p>
 
 <?php
