@@ -34,9 +34,9 @@
       <div class="dropdown-header">Dropdown heading</div>
       <!-- nota/benih/Guideline-Navbar-dan-section/Part-1-Navbar-Setup/index.php  -->
       <!-- x dpt nk include dlm index -->
-      <li><a href="navbar.php">Navbar</a></li>
-      <li><a href="section.php">Section</a></li>
-      <li><a href="link_nav_sec">Link Navbar dan Section</a></li>
+      <li><a href="nav-sec-1.php">Navbar</a></li>
+      <li><a href="nav-sec-2.php">Section</a></li>
+      <li><a href="nav-sec-3.php">Link Navbar dan Section</a></li>
       </ul>
       </li>
       <li class="dropdown">
