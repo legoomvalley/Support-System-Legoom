@@ -3,6 +3,7 @@
 <script src='https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js'></script>
 <script src='https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js'></script>
 <script src='https://cdnjs.cloudflare.com/ajax/libs/tether/1.4.4/js/tether.min.js'></script>
+<script src="https://kit.fontawesome.com/822030103e.js" crossorigin="anonymous"></script>
 <script>
 $(document).ready(function () {
   var trigger = $('.hamburger'),
